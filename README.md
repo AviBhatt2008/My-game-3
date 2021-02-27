@@ -1,2 +1,2 @@
-# My-game-3
-Drag to shoot. The map randomly generates
+# p5.play-boilerplate
+Boiler plate for p5.play
